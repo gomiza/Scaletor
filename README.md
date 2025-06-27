@@ -11,33 +11,33 @@
 
 **Full size** (2500 x 1330):
 
-A.1 [macOS (Intel 64-bit)]().
+A.1 [macOS (Intel 64-bit)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-full-macos-intel.zip).
 
-A.2 [macOS (Apple Silicon)]().
+A.2 [macOS (Apple Silicon)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-full-macos-silicon.zip).
 
-B. [windows (Intel 64-bit)]().
+B. [windows (Intel 64-bit)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-full-windows.zip).
 
-C. [linux (Intel-64-bit)]().
+C. [linux (Intel-64-bit)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-full-linux.zip).
 
 **Medium size** (1920 x 1080 maximum):
 
-A.1 [macOS-medium (Intel 64-bit)]().
+A.1 [macOS-medium (Intel 64-bit)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-medium-macos-intel.zip).
 
-A.2 [macOS-medium (Apple Silicon)]().
+A.2 [macOS-medium (Apple Silicon)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-medium-macos-silicon.zip).
 
-B. [windows-medium (Intel 64-bit)]().
+B. [windows-medium (Intel 64-bit)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-medium-windows.zip).
 
-C. [linux-medium (Intel-64-bit)]().
+C. [linux-medium (Intel-64-bit)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-medium-linux.zip).
 
 **Small size** (1300 x 750 maximum):
 
-A.1 [macOS-small (Intel 64-bit)]().
+A.1 [macOS-small (Intel 64-bit)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-small-macos-intel.zip).
 
-A.2 [macOS-small (Apple Silicon)]().
+A.2 [macOS-small (Apple Silicon)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-small-macos-silicon.zip).
 
-B. [windows-small (Intel 64-bit)]().
+B. [windows-small (Intel 64-bit)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-small-windows.zip).
 
-C. [linux-small (Intel-64-bit)]().
+C. [linux-small (Intel-64-bit)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-small-linux.zip).
 
 All files in the package are required, including the executable and auxiliary files (three .png images and a text file named .txt, all named as shipped, and there is an additional optional folder with a sample of few symbolic sequences). If necessary, follow instructions to install standalone Processing applications in your operative system.
 
