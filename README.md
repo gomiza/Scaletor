@@ -39,7 +39,7 @@ B. [windows-small (Intel 64-bit)](https://github.com/gomiza/scaletor/releases/do
 
 C. [linux-small (Intel-64-bit)](https://github.com/gomiza/scaletor/releases/download/v1.0.0/scaletor-small-linux.zip).
 
-All files in the package are required, including the executable and auxiliary files (three .png images and a text file named .txt, all named as shipped, and there is an additional optional folder with a sample of few symbolic sequences). If necessary, follow instructions to install standalone Processing applications in your operative system.
+All files in the package are required, including the executable and auxiliary files (three .png images and a text file named .txt, all named as shipped, and there is an additional optional folder with a sample of few symbolic sequences). If necessary, follow [instructions to install standalone Processing applications in your operative system](https://github.com/processing/processing4/wiki/Exporting-Applications#macos).
 
 # Installation
 
