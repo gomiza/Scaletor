@@ -1,6 +1,6 @@
 # Scaletor
 
-**Scaletor** is a catalog of all the musical scales. It is equipped with a thermodynamical search engine (TSE). It was created together with the manuscript "[The Ising model and random fields of scales](https://arxiv.org/abs/XYZ)" where you can find all the details of the TSE.
+**Scaletor** is a catalog of all the musical scales. It is equipped with a thermodynamical search engine (TSE). It was created together with the manuscript "[The Ising model and random fields of scales](https://www.matem.unam.mx/~rgomez/RFS.pdf)" where you can find all the details of the TSE.
 
 **Scaletor** is written in Processing, an IDE capable of producing stand alone java applications. In this repository we make available the packages with the executable files of **Scaletor** for macOS, windows y linux.
 
@@ -75,4 +75,4 @@ and you should be all set! This process is done only once, henceforth double cli
 
 # Additional information
 
-For more information visit [**Scaletor**'s official website](https://sites.google.com/im.unam.mx/scaletor).
+For more information visit [**Scaletor**'s official website](https://sites.google.com/im.unam.mx/scaletor), also watch an [introductory tutorial video](https://www.youtube.com/watch?v=dZX2jZDvBSs).
